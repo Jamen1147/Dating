@@ -1,0 +1,10 @@
+bin
+obj
+.vscode
+*.db
+*.db-shm
+*.db-wal
+
+# System Files
+.DS_Store
+Thumbs.db
