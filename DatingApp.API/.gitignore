@@ -5,6 +5,9 @@ obj
 *.db-shm
 *.db-wal
 
+# evn
+appsettings.json
+
 # System Files
 .DS_Store
 Thumbs.db
